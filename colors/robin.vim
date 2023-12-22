@@ -38,7 +38,7 @@ hi SpecialKey cterm=NONE ctermfg=7 ctermbg=16
 hi MatchParen cterm=bold ctermfg=33 ctermbg=233
 hi CursorLine cterm=NONE ctermfg=240 ctermbg=16
 hi StatusLine cterm=reverse ctermfg=7 ctermbg=16
-hi StatusLineNC cterm=NONE ctermfg=7 ctermbg=16
+hi StatusLineNC cterm=reverse ctermfg=8 ctermbg=16
 hi Visual cterm=reverse ctermfg=214 ctermbg=16
 hi TermCursor cterm=NONE ctermfg=7 ctermbg=16
 hi zigMultilineStringDelimiter cterm=NONE ctermfg=8 ctermbg=16
